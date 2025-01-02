@@ -1,0 +1,18 @@
+server:
+ port: 8172
+ 
+eureka:
+ instance:
+  preferIpAddress: true
+ client:
+  fetchRegistry: true
+  registerWithEureka: true
+  serviceUrl:
+   defaultZone: http://localhost:8171/eureka/
+ 
+spring:
+ security:
+  oauth2:
+   resourceserver:
+    jwt:
+     jwk-set-uri: "http://localhost:8173/realms/eazybank-qa/protocol/openid-connect/certs"
