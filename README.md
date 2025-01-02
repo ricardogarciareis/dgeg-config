@@ -1,0 +1,2 @@
+# dgeg-config
+DGEG configurations
