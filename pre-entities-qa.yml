@@ -2,7 +2,7 @@ build:
  version: "2.0"
  
 loans:
- message: "Welcome to EazyBank Entities related QA APIs"
+ message: "Welcome to DGEG Entities related QA APIs"
  contactDetails:
   name: "Ricardo Reis - QA Lead"
   email: "dzrrcreations@gmail.com"
