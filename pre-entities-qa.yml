@@ -1,5 +1,5 @@
 build:
- version: "2.0"
+ version: "v01"
  
 loans:
  message: "Welcome to DGEG Entities related QA APIs"
