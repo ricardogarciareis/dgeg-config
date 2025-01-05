@@ -1,8 +1,8 @@
 build:
- version: "3.0"
+ version: "v01"
 
 loans:
- message: "Welcome to EazyBank Entities related local APIs"
+ message: "Welcome to DGEG Entities related local APIs"
  contactDetails:
   name: "Ricardo Reis - Developer"
   email: "dzrrcreations@gmail.com"
