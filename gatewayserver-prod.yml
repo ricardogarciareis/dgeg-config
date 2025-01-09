@@ -15,4 +15,4 @@ spring:
   oauth2:
    resourceserver:
     jwt:
-     jwk-set-uri: "http://localhost:8173/realms/eazybank-prod/protocol/openid-connect/certs"
+     jwk-set-uri: "http://localhost:8173/realms/DGEG-PROD/protocol/openid-connect/certs"
