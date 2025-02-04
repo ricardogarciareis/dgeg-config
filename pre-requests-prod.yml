@@ -2,7 +2,7 @@ build:
  version: "1.0"
  
 loans:
- message: "Welcome to DGEG PRE Entities related Production APIs"
+ message: "Welcome to DGEG PRE Requests related Production APIs"
  contactDetails:
   name: "Ricardo Reis - Product Owner"
   email: "dzrrcreations@gmail.com"
