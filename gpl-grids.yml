@@ -1,0 +1,11 @@
+build:
+ version: "3.0"
+
+loans:
+ message: "Welcome to DGEG Grids related local APIs"
+ contactDetails:
+  name: "Ricardo Reis - Developer"
+  email: "dzrrcreations@gmail.com"
+ onCallSupport:
+  - (+351) 911222333
+  - (+351) 211222333

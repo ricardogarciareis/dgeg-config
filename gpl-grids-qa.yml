@@ -1,0 +1,11 @@
+build:
+ version: "2.0"
+ 
+loans:
+ message: "Welcome to DGEG Grids related QA APIs"
+ contactDetails:
+  name: "Ricardo Reis - QA Lead"
+  email: "dzrrcreations@gmail.com"
+ onCallSupport:
+  - (+351) 911222333
+  - (+351) 211222333
